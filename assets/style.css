@@ -1,0 +1,59 @@
+{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/**
+:root{
+    --primary-color: #c5c6c7;
+    --secondary-color:#66fcf1;
+    --tertiary-color:#45A29e;
+
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    padding:20px 35px;
+    background-color: var(--primary-color);
+    top:0;
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+header h1{
+    color:black;
+    margin: 10;
+
+}
+header a{
+ 
+    margin: 30px;
+    text-decoration: none;
+    font-style:bold;
+}
+header nav{
+    margin: 7px 0;
+    
+}
+header nav ul{
+    font-size: large;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;   
+}
+header nav ul li a{
+    padding: 10px 15px;
+    font-weight: lighter;
+    font-size: 1.5vw;
+}
+
+/***hero *****/
+/***aboout me */
+/*.hero{
+    background-position: 80%;
+    display:flex;
+    justify-content: center;   
+}
